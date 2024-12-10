@@ -5,7 +5,7 @@ O dataset utilizado contém informações como ano de publicação, número de j
 
 O dataset utilizado se encontra no link: [BoardGameGeek Dataset](https://www.kaggle.com/datasets/melissamonfared/board-games). Este inclui as colunas:
 
-| **Column**                                             | **Description**                                                                                   | **Data Type**    |
+| **Coluna**                                             | **Descrição**                                                                                   | **Tipo de dado**    |
 |--------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------|
 | `ID`                                                   | Identificação do jogo                                                                          | Integer          |
 | `Name`                                                 | Nome do Jogo                                                                            | String           |
