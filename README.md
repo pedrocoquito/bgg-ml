@@ -31,4 +31,4 @@ Neste trabalho, serão implementados os seguintes passos:
 - Otimização de hiperparâmetros.
 - Resultados finais e análise.
 
-O notebook para acessar ao código e análises está no link: [notebook](https://colab.research.google.com/drive/1kYwNefpw3JoILxSQuXmMu6R4BxcpuafX#scrollTo=NUlHAOAxZ5sm)
+O notebook para acessar ao código e análises está no link: [notebook](https://colab.research.google.com/drive/1kYwNefpw3JoILxSQuXmMu6R4BxcpuafX)
