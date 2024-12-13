@@ -32,20 +32,20 @@ O dataset utilizado neste projeto foi retirado do [BoardGameGeek Dataset](https:
 
 Este trabalho segue os seguintes passos:
 
-1. **Carregamento e preparação dos dados**:  
+1. **Carregamento e Preparação dos Dados**:  
    Inclui a limpeza e manipulação inicial do dataset para remover valores ausentes e selecionar as colunas mais relevantes.
 
-2. **Análise exploratória (EDA)**:  
+2. **Análise Exploratória**:  
    Análise visual e estatística dos dados para entender distribuições e relações entre as variáveis.
 
-3. **Treinamento inicial e avaliação de modelos**:  
+3. **Treinamento e Avaliação de Modelos**:  
    Comparação inicial entre diferentes modelos de machine learning, como Regressão Linear e Random Forest.
 
-4. **Otimização de hiperparâmetros**:  
-   Aplicação de técnicas como RandomizedSearchCV para ajustar os hiperparâmetros e melhorar o desempenho do modelo.
+4. **Análise das Variáveis**:  
+   Análise das variáveis mais importante e seus impactos nos modelos.
 
-5. **Resultados finais e análise**:  
-   Apresentação dos resultados, análise das variáveis mais importantes e comparações entre os modelos utilizados.
+5. **Resultados Finais e Conclusão**:  
+   Apresentação dos resultados e conclusão do projeto.
 
 ---
 
